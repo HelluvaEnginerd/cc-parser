@@ -1,6 +1,8 @@
-*.csv
+# don't wanna accidentally push the actual CC statements or formatted budget
+*_statement.csv
+*_budget.csv
 
-# from https://github.com/microsoft/vscode-python/blob/main/.gitignore
+# below is from https://github.com/microsoft/vscode-python/blob/main/.gitignore
 
 .DS_Store
 .huskyrc.json
