@@ -1,5 +1,5 @@
 # don't wanna accidentally push the actual CC statements or formatted budget
-*_statement.csv
+*.csv
 *_budget.csv
 
 # below is from https://github.com/microsoft/vscode-python/blob/main/.gitignore
